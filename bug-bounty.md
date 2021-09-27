@@ -18,6 +18,7 @@ users or forcing them to sign a transaction.
   **Medium**         Up to USD \$5,000
 
   **Low**            Up to USD \$1,000
+
   -----------------------------------------------------------------------
 
 **Web and Apps\***
@@ -30,6 +31,7 @@ users or forcing them to sign a transaction.
   **High**           Up to USD \$7,500
 
   **Medium**         Up to USD \$2,500
+
   -----------------------------------------------------------------------
 
 \*All bug reports must include a Proof of Concept demonstrating how the
